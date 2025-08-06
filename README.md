@@ -64,8 +64,8 @@ This project presents a comprehensive Power BI dashboard that visualizes and ana
 
 ## 📷 Sample Screenshots
 
-> _Add your Power BI screenshots here_  
-> (E.g. World Map view, Line Chart over time, Filter panel, etc.)
+ <img width="1919" height="1049" alt="Screenshot 2025-08-06 102628" src="https://github.com/user-attachments/assets/605c1dd3-4d18-4522-a0bf-ff5e1bb2d4d3" />
+
 
 ---
 
@@ -81,9 +81,9 @@ This project presents a comprehensive Power BI dashboard that visualizes and ana
 
 **Butar Avnish**  
 Aspiring Data Analyst | Power BI Enthusiast  
-📧 Email: _[your email, if you want to include it]_  
-🔗 LinkedIn: _[your profile link]_  
-📁 GitHub: _[your GitHub repo link if hosted]_
+📧 Email: butaravnish1@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/avnish-butar-77b35a257       
+📁 GitHub: https://github.com/AvnishButar
 
 ---
 
